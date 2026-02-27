@@ -124,4 +124,4 @@ University: Alliance School of Advanced Computing
 
  Author
  Sangram Dey 
- GitHub: [https://github.com/Sangram-dey-123](https://github.com/Sangram-dey-123/ai-predictive-maintenance7)  
+ GitHub: https://github.com/Sangram-dey-123/ai-predictive-maintenance7  
